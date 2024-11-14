@@ -1,7 +1,11 @@
 
 # IQInvest: Long-Term Investment Platform
 
-IQInvest is an all-in-one investment advisory platform designed to support trading, swing trading, and long-term investments. This portion focuses on the long-term investment platform, which provides users with investment recommendations based on a simple statistical model and Modern Portfolio Theory (MPT).
+IQInvest is an all-in-one investment advisory platform designed recommends stocks for long-term, short-term, and intraday investments, providing entry points, target prices, and stop-loss levels.It leverages stock fundamentals, news sentiment analysis, and effective trading strategies to make informed recommendations. This portion focuses on the long-term investment platform, which provides users with investment recommendations based on a simple statistical model and Modern Portfolio Theory (MPT).
+
+## Project Flow Diagram
+
+![alt text](image.png)
 
 ## Project Structure
 
