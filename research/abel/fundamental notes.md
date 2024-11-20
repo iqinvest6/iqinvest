@@ -1,88 +1,149 @@
 # Fundamentals
-## 1) Financial ratios - Measures profitability of the company.
-i) PAT Margin: profit after tax/Total revenue
 
-ii) EBITDA(earnings before tax deprecation and amortization)
+## 1) Financial Ratios - Measures Profitability of the Company
 
-EBITDA margin =EBITD/Operating expenses
+### i) PAT Margin
+$
+\text{PAT Margin} = \frac{\text{Profit After Tax}}{\text{Total Revenue}}
+$
 
-operating expenses=Total expenses-Financial cost - depreciation & amortization.
+### ii) EBITDA (Earnings Before Tax, Depreciation, and Amortization)
+$
+\text{EBITDA Margin} = \frac{\text{EBITDA}}{\text{Operating Expenses}}
+$
 
-iii) Return on assets (ROA)
+$
+\text{Operating Expenses} = \text{Total Expenses} - \text{Financial Cost} - \text{Depreciation \& Amortization}
+$
 
-iV) Return on equity (ROE)
+### iii) Return on Assets (ROA)
+$
+\text{ROA} = \frac{\text{Net Income}}{\text{Average Assets}}
+$
 
-ROE=Net income /Avg Share holders' equity
+### iv) Return on Equity (ROE)
+$
+\text{ROE} = \frac{\text{Net Income}}{\text{Average Shareholders' Equity}}
+$
 
-V) Return on capital employed (ROCE)
+### v) Return on Capital Employed (ROCE)
+$
+\text{EBIT} = \text{PAT} + \text{Tax} + \text{Interest}
+$
 
-EBIT= PAT+ Tax + Interest
+$
+\text{ROCE} = \frac{\text{EBIT}}{\text{Overall Capital Employed}}
+$
 
-ROCE= EBIT/Overall capital employed
+**Overall Capital Employed**:
+$
+\text{Short-term Debt} + \text{Long-term Debt} + \text{Equity}
+$
 
-Overall capital employed = short term debt + long term debt + equity
-or 
-Overall capital employed =Assets- Current Liabilities
+or
 
-Vi) Return on Assets (ROA):Net income/ Avg Assets
+$
+\text{Assets} - \text{Current Liabilities}
+$
 
+### Noted Points on Financial Ratios
+- ROE of 15% is good.
+- ROE does not take liability into consideration.
+- If ROCE is higher than ROE, it signifies the company has little or no debt.
+- If ROE is greater than ROCE, it indicates the balance sheet is leveraged; ensure it generates profit.
+- The gap between ROE and ROCE should be minimal.
 
-### Noted points on Financial ratios
-o ROE 15% is good
-
-o ROE not taking consideration of liability
-
-o ROCE is higher than ROE , signifies company has little debt or no debt.
-
-o ROE greater than ROCE means balance sheet is leveraged make sure that it generates profit
-
-o ROE and ROCE gap should be near.
+---
 
 ## 2) Leverage Ratios
 
-i) Interest coverage ratio: It helps to understand company's earning relative to interest burden of the company.
+### i) Interest Coverage Ratio
+$
+\text{Interest Coverage Ratio} = \frac{\text{EBIT}}{\text{Interest Payment}}
+$
 
-interest coverage ratio= EBIT/interest payment.
+### ii) Debt to Equity Ratio
+$
+\text{Debt to Equity Ratio} = \frac{\text{Total Debt}}{\text{Total Equity}}
+$
 
-ii) Debt to equity ratio  = Total debt/Total equity
+### iii) Financial Leverage Ratio
+$
+\text{Financial Leverage Ratio} = \frac{\text{Average Total Assets}}{\text{Average Total Equity}}
+$
 
-iii) Financial Leverage ratio what extend the assets are supported by equity
+### Noted Points on Leverage Ratios
+- Debt to equity ratio should be less than 1.
+- Financial leverage ratio should be lower.
 
-Financial Leverage ratio=Average total assets/Average total equity 
+---
 
-### Noted points on Leverage ratios
-o Debt to equity ratio should be less than 1.
-o Financial Leverage ratio should be less.
+## 3) Valuation Ratios
 
-## 3) Valuation Ratio
+### i) Price-to-Earnings Ratio (P/E Ratio)
+$
+\text{P/E Ratio} = \frac{\text{Current Stock Price}}{\text{Earnings Per Share}}
+$
 
-i) price per earning ratio (P/E ratio) = Current stock price/ Earnings per share
+### ii) Price-to-Book Value per Share
+$
+\text{Price to Book Value Per Share} = \frac{\text{Current Stock Price}}{\text{Book Value Per Share}}
+$
 
-ii) price to book value per share: Current stock price/ book value per share
+**Book Value Per Share (BVPS)**:
+The amount shareholders would receive if the company liquidated all its assets and paid off all its liabilities. It helps in determining a company's stock value and predicting its future market price.
 
-book value per share (BVPS):the amount shareholders would receive if the company liquidated all its assets and paid off all its liabilities. It can be used to help determine a company's stock's value and predict its future market price.
+### iii) Price-to-Sales Ratio (P/S Ratio)
+$
+\text{P/S Ratio} = \frac{\text{Current Stock Price}}{\text{Sales Per Share}}
+$
 
-iii) Price to sales ratio (p/s) ratio: Current stock price/sales per share
+### iv) Sales Per Share
+$
+\text{Sales Per Share} = \frac{\text{Total Revenue}}{\text{Number of Shares}}
+$
 
-iv) sales per share: Total revenue/no of shares
+---
 
-## 4) Operating ratio
- 
-i) Fixed Assets turnover ratio: operating revenue/ Average fixed asset
+## 4) Operating Ratios
 
-ii) Total asset turnover: operating revenue/Average total asset
+### i) Fixed Assets Turnover Ratio
+$
+\text{Fixed Assets Turnover Ratio} = \frac{\text{Operating Revenue}}{\text{Average Fixed Asset}}
+$
 
-iii) working capital turnover ratio: Revenue /Average working capital
-working capital=current assets- current liabilities
+### ii) Total Asset Turnover
+$
+\text{Total Asset Turnover} = \frac{\text{Operating Revenue}}{\text{Average Total Asset}}
+$
 
-iv) Inventory turnover ratio: cost goods sold/ Average inventory
+### iii) Working Capital Turnover Ratio
+$
+\text{Working Capital Turnover Ratio} = \frac{\text{Revenue}}{\text{Average Working Capital}}
+$
 
-Cost of goods sold: cost of materials + purchase of stock in trade+ stores & spares + power& fuel + cost of packing materials.
+**Working Capital**:
+$
+\text{Working Capital} = \text{Current Assets} - \text{Current Liabilities}
+$
 
-v) Accountable receivable turnover ratio: operating revenue / Average revenue
+### iv) Inventory Turnover Ratio
+$
+\text{Inventory Turnover Ratio} = \frac{\text{Cost of Goods Sold}}{\text{Average Inventory}}
+$
 
-vi) Day sales outstanding: 365/receivable turn over ratio 
+**Cost of Goods Sold**:
+Cost of materials + Purchase of stock in trade + Stores & spares + Power & fuel + Cost of packing materials.
 
-### Noted points on Operating ratio
+### v) Accountable Receivable Turnover Ratio
+$
+\text{Accountable Receivable Turnover Ratio} = \frac{\text{Operating Revenue}}{\text{Average Receivables}}
+$
 
-o high Accountable receivable turn over ratio indicate company collects cash more frequently
+### vi) Day Sales Outstanding
+$
+\text{Day Sales Outstanding} = \frac{365}{\text{Receivable Turnover Ratio}}
+$
+
+### Noted Points on Operating Ratios
+- A high accountable receivable turnover ratio indicates the company collects cash more frequently.
