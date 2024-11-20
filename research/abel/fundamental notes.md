@@ -8,7 +8,7 @@ $\text{PAT Margin} = \frac{\text{Profit After Tax}}{\text{Total Revenue}}$
 ### ii) EBITDA (Earnings Before Tax, Depreciation, and Amortization)
 $\text{EBITDA Margin} = \frac{\text{EBITDA}}{\text{Operating Expenses}}$
 
-$\text{Operating Expenses} = \text{Total Expenses} - \text{Financial Cost} - \text{Depreciation \& Amortization}$
+$\text{Operating Expenses} = \text{Total Expenses} - \text{Financial Cost} - \text{Depreciation and Amortization}$
 
 ### iii) Return on Assets (ROA)
 $\text{ROA} = \frac{\text{Net Income}}{\text{Average Assets}}$
