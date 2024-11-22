@@ -1,4 +1,6 @@
-checking/
+ppo_portfolio_tensorboard/
+*.zip
+
 
 # additions
 .devcontainer/
